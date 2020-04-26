@@ -1,0 +1,16 @@
+[
+{
+  "modid": "godfist",
+  "name": "God's Fist",
+  "description": "Port of Ultimate Fist mod",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ostpol"],
+  "credits": "Pillius for creating the original mod back in Beta Minecraft",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

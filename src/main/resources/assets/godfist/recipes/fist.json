@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "godfist:itemfist"
+  },
+  "pattern": [
+    "DDD",
+    "DLL",
+    "DDD"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "D": {
+      "item":  "minecraft:diamond"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  }
+}
